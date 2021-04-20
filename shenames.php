@@ -1,3 +1,3 @@
 <?php
-$she = "azkia";
+$she = "azkya";
 ?>
